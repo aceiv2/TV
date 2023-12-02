@@ -1,7 +1,19 @@
+CCTV1高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV1高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
-CCTV-3高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+CCTV-3高清,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV-3高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-3高清,http://183.196.25.171:808/hls/75/index.m3u8
+CCTV-3高清,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
+CCTV-3高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-3高清,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+CCTV-3高清,http://api2.52tb.xyz/info?id=4&token=20230326xflvzc
+CCTV-3高清,P2p://generationnexxxt.com:19806/93e75aa9188847d48506d838ef24d3f5
+CCTV-3高清,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-3高清,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV4高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
+CCTV4高清,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 CCTV-5高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 CCTV5+高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 CCTV-6高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
@@ -14,7 +26,9 @@ CCTV12高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3
 CCTV-13新闻,http://39.137.76.32:8089/00/SNM/CHANNEL00000013/index.m3u8
 CCTV-14少儿,http://39.137.76.32:8089/00/SNM/CHANNEL00000014/index.m3u8
 CCTV-15音乐,http://39.137.76.32:8089/00/SNM/CHANNEL00000015/index.m3u8
+山东卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 山东卫视高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+山东卫视高清,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
 泰安综合高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
 泰安公共,http://39.137.76.32:8089/00/SNM/CHANNEL00000270/index.m3u8
 济南新闻综合高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
@@ -40,7 +54,8 @@ CCTV-15音乐,http://39.137.76.32:8089/00/SNM/CHANNEL00000015/index.m3u8
 湖南卫视高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
 辽宁卫视高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
 黑龙江卫视高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
-贵州卫视高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8                                                                            金鹰纪实高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
+贵州卫视高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
+金鹰纪实高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 旅游卫视,http://39.137.76.32:8089/00/SNM/CHANNEL00000030/index.m3u8
 云南卫视,http://39.137.76.32:8089/00/SNM/CHANNEL00000039/index.m3u8
 重庆卫视,http://39.137.76.32:8089/00/SNM/CHANNEL00000023/index.m3u8
@@ -135,7 +150,6 @@ CCTV-少儿,http://223.110.241.203:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
 海看大片高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000407/index.m3u8
 海看4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
 山东卫视,http://111.20.35.103:6610/000000001000/1000000001000012807/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=00
-山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 山东卫视,http://125.210.152.19:9120/live/hzgq-sdwsgq-h264.m3u8
 山东卫视,http://hz752.live:63/vvs/astv.php?id=sdwshd
@@ -155,13 +169,6 @@ CCTV-少儿,http://223.110.241.203:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
 山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 山东卫视,mitv://135.148.104.228:19806/860dd8039d3a44c89b091566bc406ea9
 CCTV3,http://49.235.110.121:9090/898/peda/guizho.php?id=cctv3
-CCTV3,http://183.196.25.171:808/hls/75/index.m3u8
-CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-CCTV3,http://api2.52tb.xyz/info?id=4&token=20230326xflvzc
-CCTV3,P2p://generationnexxxt.com:19806/93e75aa9188847d48506d838ef24d3f5
-CCTV3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV3 综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV3 综艺,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8
 CCTV3 综艺,http://lu1.cc/itv/php/gudou.php?id=cctv3hd
